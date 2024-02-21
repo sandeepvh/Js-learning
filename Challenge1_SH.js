@@ -1,7 +1,8 @@
-// Display name in popup
-var myName = 'Sandeep';
-console.log(myName);
-console.log('Hi good morning')
+//- Use alert (....); to display "good morning!" in a popup.
+alert("good morning!");
+
+//Display your name in a popup.
+alert("Sandeep");
 //using math, calculte 10+5 in the console
   10+5
 // calculate 20-5 in the console
